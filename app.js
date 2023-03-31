@@ -122,4 +122,4 @@ app.get("/api", (req, res) => {
     ],
   });
 });
-app.listen(5000, () => console.log("server is up"));
+app.listen(6000, () => console.log("server is up"));
